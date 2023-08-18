@@ -10,7 +10,7 @@ Al compartir tu repo en los foros del curso, segúrate de agregar lo siguiente t
 
 | Nombre              | Email UC      |
 |:--------------------|:--------------|
-| Catalina Gallego    | correo@uc.cl  |
+| Catalina Gallego    | catalinagallego@uc.cl  |
 
 * No rellenes la información en este readme, probablemente este será un repo público, solo añádela en el foro junto al link.
 
