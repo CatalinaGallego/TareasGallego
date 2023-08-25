@@ -13,4 +13,5 @@ A pesar de no asistir a esa sesión, de igual manera hicimos una lluvia de ideas
 
 Finalmente nos inclinamos por el tema 3, llegando al uso de las bolsas plásticas, y la **ley Nº 21.100** y como ha sido su efectividad.
 
-
+Adjunto link del miró:
+https://miro.com/app/board/uXjVMrOevkM=/?share_link_id=407924705969
